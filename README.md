@@ -1,2 +1,2 @@
 # Smart-Recipe-Application-Design
-Smart Recipe application is an application for a people who love to cook and try out new recipes. Smart Recipe application provides user flexibility to search, save recipes. Our application ‘Smart Recipe’ makes finding recipes easy. In Smart Recipe app, a user can receive a recipe list related to available ingredients in pantry obtained from online cooking recipe database.
+Smart Recipe application provides user flexibility to search, save recipes. In Smart Recipe app, a user can receive a recipe list related to available ingredients in pantry obtained from online cooking recipe database.
